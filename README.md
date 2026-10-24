@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # python_chatbot_backend_full_
 End to end python to external lib
 =======
@@ -15,4 +14,3 @@ A minimal browser chat UI with a small Node.js backend that keeps the Groq API k
 Alternatively, with Node.js 18 or newer installed, run `npm start`.
 
 The backend calls Groq's OpenAI-compatible chat completions API using `llama-3.3-70b-versatile`. The key is never sent to the browser.
->>>>>>> c27bab9 (full python backend chatbot)
